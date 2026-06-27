@@ -34,7 +34,7 @@ apis:
   - url: https://github.com/whylabs/whylogs
     type: SourceCode
   - url: https://pypi.org/project/whylogs/
-    type: SDK
+    type: SDKs
   description: whylogs is an open-source data logging library that creates approximate statistical profiles of datasets,
     enabling drift detection, data quality monitoring, and bias analysis for ML pipelines. Supports tabular, text, image,
     and embedding data and produces privacy-preserving profiles that can be shared and compared without exposing raw data.
@@ -50,7 +50,7 @@ apis:
   - url: https://github.com/whylabs/langkit
     type: SourceCode
   - url: https://pypi.org/project/langkit/
-    type: SDK
+    type: SDKs
   description: LangKit is an open-source toolkit that extracts telemetry from LLM prompts and responses including relevance,
     sentiment, toxicity, prompt injection signals, jailbreak similarity, refusal patterns, and quality metrics. Designed
     to plug into whylogs profiles for end-to-end LLM observability.
