@@ -69,6 +69,8 @@ apis:
     and open-sourced the platform; commercial availability of the hosted service should be re-verified directly with the
     company.
 common:
+- type: DomainSecurity
+  url: security/whylabs-domain-security.yml
 - type: Website
   url: https://whylabs.ai/
 - type: GitHubOrganization
