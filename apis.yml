@@ -30,7 +30,7 @@ description: WhyLabs was an AI observability platform focused on data and model 
   its platform; the whylogs and LangKit projects remain available on GitHub for community use and research.
 created: '2026-05-23'
 modified: '2026-05-23'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
 - aid: whylabs:whylogs
   name: whylogs
