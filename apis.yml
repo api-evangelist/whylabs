@@ -19,6 +19,14 @@ tags:
 - AI Observability
 - ML Monitoring
 - LLM Monitoring
+- Open-Source
+- whylogs
+- LangKit
+- Discontinued
+tags_raw:
+- AI Observability
+- ML Monitoring
+- LLM Monitoring
 - Open Source
 - whylogs
 - LangKit
@@ -35,6 +43,11 @@ apis:
 - aid: whylabs:whylogs
   name: whylogs
   tags:
+  - Open-Source
+  - Data Logging
+  - Profiling
+  - Monitoring
+  tags_raw:
   - Open Source
   - Data Logging
   - Profiling
@@ -53,6 +66,11 @@ apis:
 - aid: whylabs:langkit
   name: LangKit
   tags:
+  - Open-Source
+  - LLM Monitoring
+  - Telemetry
+  - Safety
+  tags_raw:
   - Open Source
   - LLM Monitoring
   - Telemetry
@@ -69,6 +87,10 @@ apis:
 - aid: whylabs:whylabs-observability
   name: WhyLabs Observability Platform
   tags:
+  - Software-as-a-Service
+  - Observability
+  - Discontinued
+  tags_raw:
   - SaaS
   - Observability
   - Discontinued
