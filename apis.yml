@@ -2,6 +2,18 @@ aid: whylabs
 url: https://raw.githubusercontent.com/api-evangelist/whylabs/refs/heads/main/apis.yml
 name: WhyLabs
 type: Index
+deliveryModel:
+  model: self-hosted
+  license: Apache-2.0
+  open_source: true
+  commercial: false
+  callable_host: false
+  label: Self-hosted open source · you run it yourself
+  confidence: high
+  source:
+  - license
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free
   onboarding: unknown
@@ -103,6 +115,14 @@ apis:
     and open-sourced the platform; commercial availability of the hosted service should be re-verified directly with the
     company.
 common:
+- type: IssueTracker
+  url: https://github.com/whylabs/whylogs/issues
+- type: Releases
+  url: https://github.com/whylabs/whylogs/releases
+- type: CodeOfConduct
+  url: https://github.com/whylabs/whylogs/blob/mainline/.github/CODE_OF_CONDUCT.md
+- type: ContributionGuide
+  url: https://github.com/whylabs/whylogs/blob/mainline/.github/CONTRIBUTING.md
 - type: License
   name: Apache-2.0
   url: https://github.com/whylabs/whylogs/blob/mainline/LICENSE
