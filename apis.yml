@@ -31,7 +31,7 @@ tags:
 - AI Observability
 - ML Monitoring
 - LLM Monitoring
-- Open-Source
+- Open Source
 - whylogs
 - LangKit
 - Discontinued
@@ -43,6 +43,7 @@ tags_raw:
 - whylogs
 - LangKit
 - Discontinued
+- Open-Source
 description: WhyLabs was an AI observability platform focused on data and model monitoring for both classical ML and LLM
   workloads. It built and maintained whylogs, an open-source data logging library that produces statistical profiles of
   tabular and unstructured data, and LangKit, an open-source toolkit for LLM telemetry covering relevance, toxicity, prompt
@@ -55,7 +56,7 @@ apis:
 - aid: whylabs:whylogs
   name: whylogs
   tags:
-  - Open-Source
+  - Open Source
   - Data Logging
   - Profiling
   - Monitoring
@@ -64,6 +65,7 @@ apis:
   - Data Logging
   - Profiling
   - Monitoring
+  - Open-Source
   humanURL: https://whylogs.readthedocs.io/
   properties:
   - url: https://whylogs.readthedocs.io/
@@ -78,7 +80,7 @@ apis:
 - aid: whylabs:langkit
   name: LangKit
   tags:
-  - Open-Source
+  - Open Source
   - LLM Monitoring
   - Telemetry
   - Safety
@@ -87,6 +89,7 @@ apis:
   - LLM Monitoring
   - Telemetry
   - Safety
+  - Open-Source
   humanURL: https://github.com/whylabs/langkit
   properties:
   - url: https://github.com/whylabs/langkit
